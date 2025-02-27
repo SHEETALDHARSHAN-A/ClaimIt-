@@ -1,2 +1,3 @@
 # Django_Project
-To Learn Django and Git
+Web App to find a lost items through social communication
+
